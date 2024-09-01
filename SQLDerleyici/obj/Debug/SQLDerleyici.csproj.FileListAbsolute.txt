@@ -1,0 +1,10 @@
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\SQLDerleyici\SQLDerleyici\bin\Debug\SQLDerleyici.exe.config
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\SQLDerleyici\SQLDerleyici\bin\Debug\SQLDerleyici.exe
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\SQLDerleyici\SQLDerleyici\bin\Debug\SQLDerleyici.pdb
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\SQLDerleyici\SQLDerleyici\obj\Debug\SQLDerleyici.csproj.AssemblyReference.cache
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\SQLDerleyici\SQLDerleyici\obj\Debug\SQLDerleyici.Form1.resources
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\SQLDerleyici\SQLDerleyici\obj\Debug\SQLDerleyici.Properties.Resources.resources
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\SQLDerleyici\SQLDerleyici\obj\Debug\SQLDerleyici.csproj.GenerateResource.cache
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\SQLDerleyici\SQLDerleyici\obj\Debug\SQLDerleyici.csproj.CoreCompileInputs.cache
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\SQLDerleyici\SQLDerleyici\obj\Debug\SQLDerleyici.exe
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\SQLDerleyici\SQLDerleyici\obj\Debug\SQLDerleyici.pdb
